@@ -6,19 +6,22 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        Mercy
+        <br/> <br/>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          What does it mean to love someone to death? <br/>
+      </a><br/>
+    <q>After a while, I couldn't remember whole pieces
+      of you, as if part of the punishment was
+       a recollection through a filter that grew hazier
+        with time.</q>
       </header>
+        Travis CI succeed :D
     </div>
   );
 }
